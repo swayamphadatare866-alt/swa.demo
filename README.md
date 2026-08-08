@@ -1,2 +1,3 @@
 # swa.demo
-leanring
+learning
+author= swayam
